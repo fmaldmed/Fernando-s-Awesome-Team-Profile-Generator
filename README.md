@@ -26,3 +26,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+## Usage
+### Intention was to use this app to create and organize teams based on roles.
+### Unfortunately at the time i was unable to finish full development.
+### Need to update code to be able to render team successfully.
